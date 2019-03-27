@@ -1,14 +1,6 @@
 mugging
 =====
 
-.. image:: https://travis-ci.org/pavelsjo/mugging.svg?branch=master
-   :target: https://travis-ci.org/pavelsjo/mugging/
-.. image:: https://coveralls.io/repos/github/pavelsjo/mugging/badge.svg?branch=master
-   :target: https://coveralls.io/github/pavelsjo/mugging
-
-Random dataframe(messy) generator
-
-
 Description:
 ------------
 	
